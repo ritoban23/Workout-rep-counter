@@ -9,7 +9,7 @@ A simple, lightweight web app to help you count your workout reps with ease. Bui
 - 🎯 Minimalist design for focus  
 - 📱 Log your sets
 
-👉 **[Live Demo]([https://yourusername.github.io/rep-counter/](https://gilded-sable-10eb04.netlify.app/))**  
+👉 **[Live Demo]([https://yourusername.github.io/rep-counter/](https://gilded-sable-10eb04.netlify.app/)**  
 *A clean and simple interface for counting your reps.*
 
 
